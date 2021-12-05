@@ -21,7 +21,6 @@ body {
   line-height: 1.571rem;
   text-align: center;
   cursor: pointer;
-  outline: none;
   color: #fff;
   background-color: #fb8c00;
   border: none;
@@ -30,8 +29,6 @@ body {
 
 .buttonHero:hover {
   background-color: #fd7e14;
-  outline: none;
-  text-decoration: none;
 }
 
 .buttonHero:active {
